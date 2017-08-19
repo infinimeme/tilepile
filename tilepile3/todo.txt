@@ -1,0 +1,12 @@
+TODO:
+
+Dropbox based execution!
+
+Randomized row offsets.
+
+Why is SubStation not closing??
+
+palette remove color, PaletteEditor.java:190 color picker
+
+Output mural dimensions in tp admin.  General mural statistics/info tool.
+
